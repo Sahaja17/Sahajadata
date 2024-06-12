@@ -12,6 +12,8 @@ public static void main(String[]args) throws InterruptedException {
     driver.get("https://www.javatpoint.com/simple-program-of-java");
     driver.manage().window().maximize();;
     Thread.sleep(7000);
+System.out.println("helloworld");
+
 
 
 }
